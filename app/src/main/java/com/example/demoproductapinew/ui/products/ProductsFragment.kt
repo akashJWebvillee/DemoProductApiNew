@@ -83,7 +83,6 @@ class ProductsFragment : Fragment(), View.OnClickListener {
 
     override fun onClick(view: View?) {
 
-
         when (view?.id) {
 
             R.id.clRoot -> {
