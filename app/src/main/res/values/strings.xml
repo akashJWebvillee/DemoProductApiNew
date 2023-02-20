@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoProductApiNew</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="remove">Remove</string>
+    <string name="favorites">Favorites</string>
+    <string name="products">Products</string>
+</resources>
